@@ -1,0 +1,16 @@
+# Harmony Project .gitignore
+
+# C++ Header library
+*.h
+
+# Environment variables file
+.env
+
+# Server binary file
+server
+
+# SQLite database
+*.db
+
+# Storage folder
+/storage
